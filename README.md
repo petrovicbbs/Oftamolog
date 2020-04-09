@@ -1,6 +1,6 @@
-# OftamologKG
+# Oftamolog
 
-OftamologKG je Windows Form desktop aplikacija namenjena oftamološkoj ili 
+Oftamolog je Windows Form desktop aplikacija namenjena oftamološkoj ili 
 bilo kojoj ordinaciji koja treba omogućiti logovanje sledećih rola:
 
 - Lekarskog osoblja(Ordinacija):
@@ -77,7 +77,7 @@ Postoje 2 izvršna fajl:
 ************************************ SRETNO KORIŠCENJE *****************************************
 ************************************************************************************************
 ************************************************************************************************
-# OftamologKG - Windows Form desktop aplikacija za ordinacije
+# Oftamolog - Windows Form desktop aplikacija za ordinacije
 Program je završen ali zbog eventualnih zainteresovanih strana nisam u mogućnosti da podelim kod.
 Hvala na razumevanju.
 ************************************************************************************************
