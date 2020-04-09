@@ -1,3 +1,5 @@
+# OftamologKG
+
 OftamologKG je Windows Form desktop aplikacija namenjena oftamološkoj ili 
 bilo kojoj ordinaciji koja treba omogućiti logovanje sledećih rola:
 
@@ -50,7 +52,7 @@ kopiranja i za koju je lično odgovoran.
 Fajl sa šifrom se ne sme kopirati, kao ni slati putem interneta.
 
 ************************************************************************************************
-******************************** Oftamolog DB **************************************************
+#  Oftamolog DB 
 ************************************************************************************************
 
 Kratko uputsvo za kreiranje DB Oftamolog v1.2 na vasem racunaru.
