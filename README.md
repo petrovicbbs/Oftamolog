@@ -75,7 +75,7 @@ Postoje 2 izvršna fajl:
 ************************************ SRETNO KORIŠCENJE *****************************************
 ************************************************************************************************
 ************************************************************************************************
-#OftamologKG - Windows Form desktop aplikacija za ordinacije
+# OftamologKG - Windows Form desktop aplikacija za ordinacije
 Program je završen ali zbog eventualnih zainteresovanih strana nisam u mogućnosti da podelim kod.
 Hvala na razumevanju.
 ************************************************************************************************
