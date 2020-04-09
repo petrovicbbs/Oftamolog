@@ -48,3 +48,32 @@ moguće je ulogovati se kao korisnik sa rolom Administrator uz pomoć enkriptova
 koje instalater dobija samo i samo neposredno pre instalacije programa na medijumu koji je zaštićen od 
 kopiranja i za koju je lično odgovoran.
 Fajl sa šifrom se ne sme kopirati, kao ni slati putem interneta.
+
+************************************************************************************************
+******************************** Oftamolog DB **************************************************
+************************************************************************************************
+
+Kratko uputsvo za kreiranje DB Oftamolog v1.2 na vasem racunaru.
+
+Postoje 2 izvršna fajl:
+1. CREATE DB.bat
+2. DROP DB.bat
+
+
+# CREATE DB.bat
+- Na početku, odmah nakon pokretanja tražiće vam "Server name" Vašeg SQL Servera.
+- Nakon unosa Vašeg SQL Servera, program će Vas pitati "Gde želite da izvršite backUp baze:"
+
+  *NAPOMENA: Inicijalni backUp baze se izvršava iz sigurnostnih razloga jer nakon tog momenta, 
+  svaka izmena baze sa sobom povlači backup baze.
+             
+# DROP DB.bat
+- Na pocetku, odmah nakon pokretanja tražiće vam "Server name" vašeg SQL Servera.
+- Nakon unosa "server name"-a program će sam obrisati sve tragove Oftamolog baze.
+  
+************************************************************************************************
+************************************ SRETNO KORIŠCENJE *****************************************
+************************************************************************************************
+
+Program je završen ali zbog eventualnih zainteresovanih strana nisam u mogućnosti da podelim kod.
+Hvala na razumevanju.
